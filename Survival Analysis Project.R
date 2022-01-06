@@ -1,5 +1,5 @@
 #Survival Analysis in R
-#Copyright 2015 by Oyedele Moses Olayinka
+#Copyright 2018 by Oyedele Moses Olayinka
 
 install.packages("survival")
 library(survival)
